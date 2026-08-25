@@ -7,4 +7,4 @@ This project brings the core mechanics of Wingspan into a digital format, includ
 
 **Role**
 
-Team Lead — coordinated the development team and contributed to the implementation of the game.
+Team Lead: coordinated the development team and contributed to the implementation of the game.
